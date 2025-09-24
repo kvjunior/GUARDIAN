@@ -40,7 +40,7 @@ The implementation requires the following hardware and software configurations f
 Begin by cloning the repository and setting up the Python environment:
 
 ```bash
-git clone https://github.com/anonymous/GUARDIAN-scis.git
+git clone (https://anonymous.4open.science/anonymize/GUARDIAN-CE63)
 cd GUARDIAN-scis
 ```
 
